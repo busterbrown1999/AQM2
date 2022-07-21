@@ -93,3 +93,4 @@ config/polymer/client.json
 options.amecsapi.txt
 options.amecsapi.txt
 .mixin.out/class/net/minecraft/class_2535$1.class
+automation/secrets.ps1
